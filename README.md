@@ -18,3 +18,7 @@ This project enhances home/office security by automatically locking/unlocking do
 - Single channel isolated relay 5 voltage. 
 - A solenoid lock 12 voltage (Can be replaced by a LED).
 
+## How to use:
+- Run file enroll_faces_10encodinsg.py to enroll author's face with 10 encodings
+- delete_faces.py for deleting all encodings saved.
+- Run file main.py for the main program.
